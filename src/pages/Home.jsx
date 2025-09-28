@@ -48,7 +48,7 @@ const Home = () => {
   return (
     <section
       id="home"
-      className="relative flex flex-col-reverse md:flex-row items-center justify-center min-h-screen px-6 md:px-20 bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 overflow-hidden"
+      className="relative flex flex-col-reverse md:flex-row pt-20 items-center justify-center min-h-screen px-6 md:px-20 bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 overflow-hidden"
     >
       <div className="absolute inset-0 bg-gradient-to-r from-blue-600/20 via-purple-600/20 to-pink-600/20 blur-3xl opacity-40 animate-pulse"></div>
 
