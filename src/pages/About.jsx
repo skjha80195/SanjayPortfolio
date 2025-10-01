@@ -60,7 +60,7 @@ const About = () => {
               View My Work →
             </a>
             <a
-              href="./profile-pic.png"
+              href="./sanjayResume.pdf"
               download="Sanjay_Resume.pdf"
               className="flex gap-1 px-6 py-3 border border-gray-500 text-gray-200 hover:bg-gray-800/50 font-medium rounded-lg shadow-md transition backdrop-blur-md"
             >
